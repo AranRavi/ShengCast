@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: 盛铸网
+title: ShengCast
 subtitle: 铸造行业电子商务平台
 url: "http://aranravi.github.io/ShengCast" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
